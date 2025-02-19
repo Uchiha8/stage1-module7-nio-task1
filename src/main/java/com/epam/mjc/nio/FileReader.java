@@ -1,7 +1,6 @@
 package com.epam.mjc.nio;
 
 import java.io.*;
-import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 import java.util.Map;
 
